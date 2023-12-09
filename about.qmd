@@ -12,4 +12,4 @@ about:
       href: https://github.com/ronitbaishya1
 ---
 
-About this blog
+Currently I am a civil engineering masters student at Virginia Tech.
