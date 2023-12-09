@@ -2,7 +2,7 @@
 title: "PROBABILITY THEORY AND RANDOM VARIABLES"
 author: "Ronit Baishya"
 date: "2023-12-08"
-categories: [Probability Theroy and Random Variables]
+categories: [Probability Theory and Random Variables]
 image: "Photo.png"
 ---
 
