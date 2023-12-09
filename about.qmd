@@ -1,0 +1,15 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ronitrajbaishya/
+    - icon: github
+      text: Github
+      href: https://github.com/ronitbaishya1
+---
+
+About this blog
